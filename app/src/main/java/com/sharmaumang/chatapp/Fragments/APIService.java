@@ -12,7 +12,7 @@ public interface APIService {
     @Headers(
             {
                     "Content-Type:application/json",
-                    "Authorization:key=ADD HERE YOUR KEY FROM FIREBASE PROJECT"
+                    "Authorization:key=chat-app-23b5e"
             }
     )
 
